@@ -1,6 +1,6 @@
 # MyTetris-Pygame
 
-Another Tetris clone...
+Another Tetris clone... Requires Pygame library.
 
 Keyboard:
 - F2 key starta a game
